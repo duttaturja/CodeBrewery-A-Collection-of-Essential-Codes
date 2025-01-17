@@ -47,9 +47,9 @@ Welcome to **CodeBrewery**, your one-stop shop for all things algorithms and dat
 ## 🚀 Getting Started
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/duttaturja/CodeBrewery-A-Collection-of-Essential-Codes.git
-   ```
+  ```bash
+  git clone https://github.com/duttaturja/CodeBrewery-A-Collection-of-Essential-Codes.git
+  ```
 
 2. Navigate to the desired folder (e.g., sorting, searching) and run the Python file:
   ```bash
@@ -81,6 +81,8 @@ This repository is licensed under the MIT License. See LICENSE for more informat
 ## 💬 Let's Connect!
 Feel free to reach out if you have any questions, suggestions, or if you want to share your thoughts on CodeBrewery! Open an issue, or contact at [@duttaturja](https://github.com/duttaturja).
 
-"Serving up sorting, searching, and structures with a twist!" 😎
+---
+"Serving up sorting, searching, scheduling and structures with a twist!" 😎
+---
 
 ## 👨‍💻 Developed by duttaturja
