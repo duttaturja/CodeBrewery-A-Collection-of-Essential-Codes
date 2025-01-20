@@ -12,17 +12,11 @@ Welcome to **CodeBrewery**, your one-stop reporsitory for all things algorithms 
   - Quick Sort
   - Heap Sort
   - Radix Sort
-  - Shell Sort
-  - Tim Sort
-  - Cocktail Sort
 
 - **Searching Algorithms**:
   - Binary Search
   - Linear Search
   - Jump Search
-  - Interpolation Search
-  - Exponential Search
-  - Fibonacci Search
   - Ternary Search
   - Unsorted Linear Search
 
@@ -59,7 +53,7 @@ Welcome to **CodeBrewery**, your one-stop reporsitory for all things algorithms 
 Enjoy the algorithms running like a well-oiled machine! 🛠️
 
 ## 🧑‍💻 How to Contribute
-**Fork the repository**.
+**Fork the repository:
 Clone your forked repo:
 ```bash
 git clone https://github.com/your-username/CodeBrewery.git
@@ -85,4 +79,4 @@ Feel free to reach out if you have any questions, suggestions, or if you want to
 "Serving up sorting, searching, scheduling and structures with a twist!" 😎
 ---
 
-## 👨‍💻 Developed by duttaturja
+# 👨‍💻 Developed by [duttaturja](https://github.com/duttaturja)
