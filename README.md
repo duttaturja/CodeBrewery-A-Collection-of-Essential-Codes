@@ -1,6 +1,6 @@
 # CodeBrewery: A Collection of Algorithms & Data Structures 🍺
 
-Welcome to **CodeBrewery**, your one-stop shop for all things algorithms and data structures! Here, you'll find a delightful blend of classic and advanced algorithms, carefully brewed for your coding pleasure.
+Welcome to **CodeBrewery**, your one-stop reporsitory for all things algorithms and data structures! Here, you'll find a delightful blend of classic and advanced algorithms, carefully brewed for your coding pleasure.
 
 ## 🍿 Contents
 
